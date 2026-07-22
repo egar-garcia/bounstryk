@@ -30,7 +30,7 @@ physics and positioning are key.
 
 ### Get and load the ROM
 
-Download the latest ROM (`.bin` file) from the [ROMs' directory](roms/).
+Download the latest ROM (`.bin` file) from the [releases](releases/).
 
 Play the game by loading the ROM in either:
 * An **Atari 2600 emulator**. For example [Stella](https://stella-emu.github.io/)
