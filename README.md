@@ -1,8 +1,9 @@
 # Bounstryk
 
 ![Platform](https://img.shields.io/badge/Platform-Atari_2600-red)
-![License](https://img.shields.io/badge/License-Apache_2-green)
 ![Status](https://img.shields.io/badge/Status-Homebrew-blue)
+[![License](https://img.shields.io/badge/License-Apache_2.0-green)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgray)](https://creativecommons.org/licenses/by/4.0/)
 
 ![Bounstryk](imgs/bounstryker_little.png)
 
@@ -95,7 +96,7 @@ alternative tools that you can use:
 This project is open source and available under the [Apache 2 license](LICENSE).
 
 The images in this project are licensed under the Creative Commons Attribution
-4.0 International (CC-BY 4.0) License. For the full terms of the license,
+4.0 International (CC BY 4.0) License. For the full terms of the license,
 please see the [LICENSE](imgs/LICENSE) file in the [imgs](imgs/) directory.
 
 Disclaimer: This is a personal project. The views, code, and opinions expressed
